@@ -1,3 +1,4 @@
+![Noto](hazukiGothic.png)
 # Hazuki Gothic (はづきゴシック)
 Hazuki Gothic is a basic Japanese san serif (Gothic) family based on Noto Sans Display and Noto Sans CJK JP. Latin, Greek, and Cyrillic glyphs are from Noto Sans Display, while Japanese glyphs are from Noto Sans JP. It has Thin, Light, Regular, Medium, Bold, and Black styles and is hinted.
 
