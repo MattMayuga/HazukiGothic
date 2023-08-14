@@ -10,4 +10,4 @@ This font is released under the SIL Open Font License (OFL) v1.1, which allows y
 
 Noto Sans Display™& ©Google Inc. 2015-2021 ALL RIGHTS RESERVED.
 
-Noto Sans CJK™& ©Adobe Systems Incorporated. 2014-2021 ALL RIGHTS RESERVED.
+Noto Sans CJK™& ©Adobe Systems Incorporated 2014-2021 ALL RIGHTS RESERVED.
