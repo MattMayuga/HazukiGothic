@@ -9,4 +9,5 @@ This font is released under the SIL Open Font License (OFL) v1.1, which allows y
 このフォントは、SIL Open Font License (OFL) v1.1の下でリリースされており、必要に応じてコピー、変更、再配布が可能です。条件や制限についての正確な詳細は、[このリンク](http://scripts.sil.org/OFL)をご確認ください。
 
 Noto Sans Display™& ©Google Inc. 2015-2021 ALL RIGHTS RESERVED.
+
 Noto Sans CJK™& ©Adobe Systems Incorporated. 2014-2021 ALL RIGHTS RESERVED.
